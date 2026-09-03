@@ -8,7 +8,7 @@
 
 ### About Me
 
-Hey! I'm Owryn, a developer who's been building all kinds of projects for over 6 years. From e-commerce websites to Discord bots of every kind sales, security, moderation, AI companions, you name it.
+Hey! I'm Owryn, a developer who's been building all kinds of projects for over 10 years. From e-commerce websites to Discord bots of every kind sales, security, moderation, AI companions, you name it.
 
 I'm also the founder of **Voxura Studios**, where I build bots, tools, websites, e-commerce stores, and even some games.
 
